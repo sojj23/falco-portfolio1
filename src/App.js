@@ -126,7 +126,7 @@ function App() {
             </h1>
             <p className="hero-subtitle">An aspiring Cybersecurity Analyst and Network</p>
             <p className="hero-description">
-              I create beautiful, functional, and user-centered digital experiences that make a difference.
+              Exploring the world of cybersecurity.
             </p>
             <div className="hero-buttons">
               <button className="btn btn-primary" onClick={() => scrollToSection("projects")}>
